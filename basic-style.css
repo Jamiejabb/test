@@ -47,10 +47,11 @@ a:hover{ text-decoration:none;}
 .wrapper{
 	width: 92%; 
 	margin: 0 auto;
-	background-color:red;
+	
 }
 header{ 
 	padding:15px 0;
+	background-color:red;
 }
 #banner{ 
 	text-align:center;
