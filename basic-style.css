@@ -20,6 +20,7 @@ body{
 	font-size:1em;
 	line-height:1.4em; 
 	font-weight:normal;
+	background-color:red;
 }
 h1, h2, h3, h4, h5, h6{
 	font-weight:normal;
@@ -51,7 +52,6 @@ a:hover{ text-decoration:none;}
 }
 header{ 
 	padding:15px 0;
-	background-color:red;
 }
 #banner{ 
 	text-align:center;
